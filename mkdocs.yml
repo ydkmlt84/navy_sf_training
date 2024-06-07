@@ -145,6 +145,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Blog: blog/index.md
+  - About: about.md
 
 # Custom Homepage Button(s)
 home_button1_name: Learn More            # Comment this parameter out to remove the button.
