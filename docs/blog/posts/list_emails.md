@@ -20,6 +20,7 @@ You: "Ok, how do I do that?"
  This isn't hard at all. It just isn't obvious on how to do it. I mean, why would there be a button that takes you right to it? That's too easy!
 
 ## Let's Get Started
+
 (:material-lightbulb-on: ***If necessary, images on this page will be blurred to some degree for privacy concerns. You can right click and `open image in new tab` to see it larger***)
 
 ### Step 1
@@ -28,20 +29,21 @@ After logging in to SF, you will be presented with this page.
 
 ![main-page](main-page.png)
 
-## Open ARM App Launcher
-
 ### Step 2
-Once you are logged in and at the Main Page... you want to click on the ARM App Launcher
+
+Once you are logged in and at the Main Page... you want to click on the ARM App Launcher.
 
 ![arm-button](arm-button.png)
 
 ### Step 3
+
 Search using the word `contacts` in the box. Click on `Contacts`
 
 ![arm-contacts](arm-contacts.png)
 
 ### Step 4
-Once you click Contacts, you will always be taken to the `Recently Viewed` page. Yours may look different than the screenshot, but it will always be `Recently Viewed`. (1)
+
+Once you click Contacts, you will always be taken to the `Recently Viewed` page. Yours may look different than the screenshot, but it will always be `Recently Viewed`. (1) { .annotate }
 
 1. In the future when you have some lists saved, you can click the drop-down button next to `Recently Viewed` and choose your saved list.
 
