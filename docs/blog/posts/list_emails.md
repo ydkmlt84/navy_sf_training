@@ -18,6 +18,9 @@ You: "Ok, how do I do that?"
 
 <!-- more -->
 
-## First things first
+## First Things First
 
  This isn't hard at all. It just isn't obvious on how to go about sending a list email to a lot of people. I mean why would there be a button that takes you right to it? That's too easy.
+
+## Let's Get Started
+
