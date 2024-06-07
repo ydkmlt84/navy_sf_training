@@ -64,7 +64,7 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: images/favicon.ico
+  favicon: images/favicon.png
   icon:
     logo: material/hand-heart
 
