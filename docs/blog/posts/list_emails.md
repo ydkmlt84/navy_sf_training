@@ -21,7 +21,7 @@ You: "Ok, how do I do that?"
 
 ## Let's Get Started
 
-(:material-lightbulb-on: ***If necessary, images on this page will be blurred to some degree for privacy concerns. You can right click and `open image in new tab` to see it larger***)
+(:material-lightbulb-on: *If necessary, images on this page will be blurred to some degree for privacy concerns. You can right click and `open image in new tab` to see it larger*)
 
 ### Step 1
 
@@ -49,3 +49,40 @@ Once you click Contacts, you will always be taken to the `Recently Viewed` page.
 1. In the future when you have some lists saved, you can click the drop-down button next to `Recently Viewed` and choose your saved list.
 
 ![recently-viewed](recently-viewed.png)
+
+### Step 5
+
+We are going to create our own list. (1) Click on the gear icon and select `New`.
+{ .annotate }
+
+1. Again, in the future after you make a list or two, you will be able to select one of your own previously made lists. Instead of creating a new one.
+
+![new-list](new-list.png)
+
+Name your new list whatever you want.
+
+![new-list-name](new-list-creation.png)
+
+### Step 6
+
+Now we are brought into the list with a default filter of `Filter by Owner: My Contacts`. It is not immediately clear, to me, how this filter is applied to contacts. You may have a lot and you may have a little. I don't ever user this default filter.
+
+![default-view](default-new-list.png)
+
+### Step 7
+
+We are going to click on the `Filter by Owner` box and change it to `All Contacts`.
+
+![change-filter](change-filter.png)
+
+![contacts-filter-change](filters-view.png)
+
+### Step 8
+
+:material-tooltip-remove-outline: Do not hit save yet.
+
+???+ warning "Large List Email"
+
+    Once you change it to `All Contacts` and click save. The list is going to be **VERY** large. DO NOT EMAIL THIS LIST!!
+
+Now we want to apply filters to start dwindling down this list to something manageable. I suggest you don't email a list that is larger than 100 people. 
