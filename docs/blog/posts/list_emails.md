@@ -17,3 +17,7 @@ It can start to get overwhelming seeing them all, and then leadership says, "Hey
 You: "Ok, how do I do that?"
 
 <!-- more -->
+
+## First things first
+
+ This isn't hard at all. It just isn't obvious on how to go about sending a list email to a lot of people. I mean why would there be a button that takes you right to it? That's too easy.
