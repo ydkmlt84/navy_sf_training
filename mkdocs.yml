@@ -70,7 +70,12 @@ theme:
 
 # Plugins
 plugins:
-  - blog
+  - blog:
+      blog_toc: true
+      post_url_format: "/{categories}/{slug}"
+      categories_slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - social:
