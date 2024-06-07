@@ -43,7 +43,8 @@ Search using the word `contacts` in the box. Click on `Contacts`
 
 ### Step 4
 
-Once you click Contacts, you will always be taken to the `Recently Viewed` page. Yours may look different than the screenshot, but it will always be `Recently Viewed`. (1) { .annotate }
+Once you click Contacts, you will always be taken to the `Recently Viewed` page. Yours may look different than the screenshot, but it will always be `Recently Viewed`.(1) 
+{ .annotate }
 
 1. In the future when you have some lists saved, you can click the drop-down button next to `Recently Viewed` and choose your saved list.
 
