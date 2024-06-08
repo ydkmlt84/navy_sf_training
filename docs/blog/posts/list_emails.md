@@ -1,6 +1,7 @@
 ---
 title: List Emails
 date: 2024-06-06
+readtime: 20
 categories:
   - Guides
 authors:
