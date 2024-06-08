@@ -85,4 +85,10 @@ We are going to click on the `Filter by Owner` box and change it to `All Contact
 
     Once you change it to `All Contacts` and click save. The list is going to be **VERY** large. DO NOT EMAIL THIS LIST!!
 
-Now we want to apply filters to start dwindling down this list to something manageable. I suggest you don't email a list that is larger than 100 people. 
+Now we want to apply filters to start dwindling down this list to something manageable. I suggest you don't email a list that is larger than 100 people.
+
+Click on the `Add Filter` link to open up the new filter box. A few starter filters that I suggest are:
+- Applicant: Officer Applicant Owner -> Contains -> Unassigned
+- Applicant: Career Type -> equals -> Officer
+
+![add-filter](new-filter.png)
